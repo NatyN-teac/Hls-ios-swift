@@ -1,0 +1,12 @@
+[
+    {
+           "title": "Kaltura 720p", "id": "k-720p",
+           "url": "https://cdnapisec.kaltura.com/p/243342/sp/24334200/playManifest/entryId/1_sf5ovm7u/format/applehttp/protocol/https/name/a.m3u8",
+           "options": {
+               "videoHeight": 720,
+           }
+       },
+       
+   
+]
+
